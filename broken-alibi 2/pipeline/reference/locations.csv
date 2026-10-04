@@ -1,0 +1,12 @@
+code,kind,floor,zone,is_building_entrance,restricted,assumption
+D-LOBBY,door,1,Lobby,true,false,Main entrance on the ground floor
+D-STAIRWELL-B,door,,Stairwell B,true,false,Treated as a side entrance because people enter and leave through it; floor not given
+D-EXEC-3F,door,3,Executive suite,false,true,The 3F door code is the executive suite
+D-SERVER,door,,Server room,false,true,Floor not given in the brief
+CAFETERIA-01,terminal,,Cafeteria,false,false,Floor not given
+VENDING-3F,terminal,3,Vending 3F,false,false,
+VENDING-LOBBY,terminal,1,Lobby vending,false,false,
+PARKING-EXIT-B,terminal,,Parking exit B,true,false,A car leaving the garage counts as leaving the building
+LAPTOP-EMP0047,device,,Laptop (location unknown),false,false,A laptop can move; its location is not known from the log
+WORKSTATION-EMP0031,device,,Workstation (desk location unknown),false,false,
+WORKSTATION-EMP0011,device,,Workstation (desk location unknown),false,false,

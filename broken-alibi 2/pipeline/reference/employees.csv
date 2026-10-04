@@ -1,0 +1,5 @@
+employee_id,badge_id,hostname,notes
+EMP-0092,BDG-4471,,No device in the sample data
+EMP-0047,BDG-2205,LAPTOP-EMP0047,Laptop (mobile)
+EMP-0031,BDG-0113,WORKSTATION-EMP0031,Desk workstation
+EMP-0011,BDG-0088,WORKSTATION-EMP0011,Desk workstation

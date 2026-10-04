@@ -1,0 +1,5 @@
+2026-08-14T22:33:00Z LAPTOP-EMP0047 user=EMP-0047 event=LOGIN action=success src=10.0.4.12
+2026-08-14T22:41:22Z WORKSTATION-EMP0031 user=EMP-0031 event=FILE_ACCESS action=read src=10.0.7.03 path=/finance/audit_2025.xlsx
+2026-08-14T23:12:04Z LAPTOP-EMP0047 user=EMP-0047 event=EMAIL_SENT action=success src=10.0.4.12 to=external
+2026-08-14T23:44:17Z WORKSTATION-EMP0011 user=EMP-0011 event=USB_INSERTED action=detected src=10.0.9.14
+2026-08-14T23:58:02Z LAPTOP-EMP0047 user=EMP-0047 event=LOGOUT action=success src=10.0.4.12

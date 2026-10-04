@@ -1,0 +1,54 @@
+{
+  "file": "badge/dt=2026-08-14/badge_access_2026-08-14.csv",
+  "source": "badge",
+  "ingestion_path": "nightly_batch",
+  "ingested_at": "2026-10-04T19:02:40.613061Z",
+  "sha256": "acf4727ced34ce4f7a060b3cd4a669421d5870c5bbd4a64ee635b0dbe83a59d1",
+  "bytes": 572,
+  "records": [
+    {
+      "line_no": 2,
+      "raw_event_hash": "a08da304a1de98865a744b1c3f1cd83e5e2e129837d643120482d99257eec2c4"
+    },
+    {
+      "line_no": 3,
+      "raw_event_hash": "9bba31b30c017485f743c492a6f0ca88104a569d6d24d25b828a9cfceb78c769"
+    },
+    {
+      "line_no": 4,
+      "raw_event_hash": "6a282dbb53f1e1df4c16c6a11436b12fe41ad4e592c3e0da3c61536cbc2f2f4d"
+    },
+    {
+      "line_no": 5,
+      "raw_event_hash": "497e4700a6eacd526e3e13e0d609f1917f0b8f9f5f393ab1cf5b4dddf3031386"
+    },
+    {
+      "line_no": 6,
+      "raw_event_hash": "6818d6335189416b4560bb98c422190b5c47b57ed09c6c72a744e30c8ce3e864"
+    },
+    {
+      "line_no": 7,
+      "raw_event_hash": "e53287c9fa69bbd653c07f70b18abdc002e93911829ee257ef45741f7b01d89f"
+    },
+    {
+      "line_no": 8,
+      "raw_event_hash": "fb316ddb9942dcabb6f3a5b1a7f23821248323e5f3a3fb9a52cec0335eb4e9c3"
+    },
+    {
+      "line_no": 9,
+      "raw_event_hash": "945decd03c7e565c5f3d3a6fb6ef5c44e25edb1dc54d19dd3f7f7d1e2c695efa"
+    },
+    {
+      "line_no": 10,
+      "raw_event_hash": "9ba31eb877bad2fe29ea1d482c30a7bc18954fc4de2424994eade77f26dbfb66"
+    },
+    {
+      "line_no": 11,
+      "raw_event_hash": "85703f14926900e1095e8c6e164c01ed330aed87e04de694391779a8cfba9484"
+    }
+  ],
+  "export_day": "2026-08-14",
+  "header": "badge_id,employee_id,door_id,timestamp,direction",
+  "source_file": "badge_access.csv",
+  "vendor_checksum_match": true
+}

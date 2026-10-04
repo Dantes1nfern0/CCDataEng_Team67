@@ -1,0 +1,42 @@
+{
+  "file": "device/dt=2026-08-14/segment-00001.log",
+  "source": "device",
+  "ingestion_path": "stream_consumer",
+  "ingested_at": "2026-10-04T19:02:40.613787Z",
+  "sha256": "072f9cbd44e74e29bffb9d2277f3017cfd286550caf4efc82a632c7d91d3d82e",
+  "bytes": 524,
+  "records": [
+    {
+      "line_no": 1,
+      "stream_offset": 0,
+      "received_at": "2026-10-04T19:02:40.613462Z",
+      "raw_event_hash": "ced77624cc3fa67fcc8ed2a388a4dac7d3599bcffe166a619332b5930149ea56"
+    },
+    {
+      "line_no": 2,
+      "stream_offset": 1,
+      "received_at": "2026-10-04T19:02:40.613462Z",
+      "raw_event_hash": "5309670c25cbdec5f18efa905ae79ca13da5360bdce80fec221bc108da82c9e7"
+    },
+    {
+      "line_no": 3,
+      "stream_offset": 2,
+      "received_at": "2026-10-04T19:02:40.613462Z",
+      "raw_event_hash": "282d4350f02200c37426021d83cb9381a2b90afbaba9ca90ead63c5d378d8e64"
+    },
+    {
+      "line_no": 4,
+      "stream_offset": 3,
+      "received_at": "2026-10-04T19:02:40.613462Z",
+      "raw_event_hash": "1031b287352b30422c6a0ef1c76fcfdaec73950136ef31e7c7f4534d79bc2d3b"
+    },
+    {
+      "line_no": 5,
+      "stream_offset": 4,
+      "received_at": "2026-10-04T19:02:40.613462Z",
+      "raw_event_hash": "c305b0a335be2722ab6fde203aec2de9572bcbd1b02555fa3e8b594badc9d355"
+    }
+  ],
+  "first_offset": 0,
+  "last_offset": 4
+}

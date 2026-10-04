@@ -1,0 +1,52 @@
+{
+  "source_files": [
+    {
+      "file": "badge_access.csv",
+      "status": "OK",
+      "expected": "acf4727ced34ce4f7a060b3cd4a669421d5870c5bbd4a64ee635b0dbe83a59d1",
+      "actual": "acf4727ced34ce4f7a060b3cd4a669421d5870c5bbd4a64ee635b0dbe83a59d1"
+    },
+    {
+      "file": "transactions.csv",
+      "status": "OK",
+      "expected": "1ee7c9bb7ea55dff78f59d4dade4815a84459fcc1e96ddd8d183ff6add52f067",
+      "actual": "1ee7c9bb7ea55dff78f59d4dade4815a84459fcc1e96ddd8d183ff6add52f067"
+    },
+    {
+      "file": "device_logs.log",
+      "status": "OK",
+      "expected": "072f9cbd44e74e29bffb9d2277f3017cfd286550caf4efc82a632c7d91d3d82e",
+      "actual": "072f9cbd44e74e29bffb9d2277f3017cfd286550caf4efc82a632c7d91d3d82e"
+    }
+  ],
+  "raw_zone_files": [
+    {
+      "file": "badge/dt=2026-08-14/badge_access_2026-08-14.csv",
+      "status": "OK",
+      "records": 10,
+      "altered_lines": []
+    },
+    {
+      "file": "device/dt=2026-08-14/segment-00001.log",
+      "status": "OK",
+      "records": 5,
+      "altered_lines": []
+    },
+    {
+      "file": "txn/dt=2026-08-14/changes-00000001-00000005.jsonl",
+      "status": "OK",
+      "records": 5,
+      "altered_lines": []
+    }
+  ],
+  "answer_rows": {
+    "checked": 20,
+    "ok": 20,
+    "failed": {}
+  },
+  "audit_log": {
+    "status": "OK",
+    "detail": "25 entries, chain intact"
+  },
+  "all_ok": true
+}

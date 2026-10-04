@@ -1,0 +1,7 @@
+employee_id,alibi_text,claim_type,claim_time,claim_value
+EMP-0047,"I was on the 3rd floor working late on the audit files. Left the building around midnight.",ON_FLOOR,,3
+EMP-0047,"I was on the 3rd floor working late on the audit files. Left the building around midnight.",LEFT_AROUND,2026-08-15 00:00:00+00,30
+EMP-0031,"I was in the server room fixing a batch job. Left before 11 PM.",IN_ZONE,,Server room
+EMP-0031,"I was in the server room fixing a batch job. Left before 11 PM.",LEFT_BEFORE,2026-08-14 23:00:00+00,
+EMP-0092,"I came back to grab something from my desk after dinner. I was in and out.",MAX_VISIT_MINUTES,,10
+EMP-0011,(no alibi on record),NO_ALIBI,,

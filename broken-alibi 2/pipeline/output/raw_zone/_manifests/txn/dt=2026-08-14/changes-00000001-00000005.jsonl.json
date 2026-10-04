@@ -1,0 +1,37 @@
+{
+  "file": "txn/dt=2026-08-14/changes-00000001-00000005.jsonl",
+  "source": "txn",
+  "ingestion_path": "change_data_capture",
+  "ingested_at": "2026-10-04T19:02:40.614655Z",
+  "sha256": "680e86e704c37aa2138efbf7a851333a68f7f0298d44cc688f3d3a9486b1afa8",
+  "bytes": 1333,
+  "records": [
+    {
+      "line_no": 1,
+      "lsn": 1,
+      "raw_event_hash": "99a2c5a08840e7c1a16218977a53633cbb43a5a4c670ad23a5682158cdea442d"
+    },
+    {
+      "line_no": 2,
+      "lsn": 2,
+      "raw_event_hash": "bcfbf15b79d206d39cdb94c1a12ae836b95c8397b8d90daba55d5ba329c1d11b"
+    },
+    {
+      "line_no": 3,
+      "lsn": 3,
+      "raw_event_hash": "0b9808dad9ea70b0356973b922a44cf984c875b702c2f5e6564674ad095b1c60"
+    },
+    {
+      "line_no": 4,
+      "lsn": 4,
+      "raw_event_hash": "5d111b4affd4440c71c8242e53757080039dd2473b9d74805683b6b2fad05fdf"
+    },
+    {
+      "line_no": 5,
+      "lsn": 5,
+      "raw_event_hash": "2d3925bb490b6354c08bcffe0674ea892f2027e28ef17f961c3f29424a40bca2"
+    }
+  ],
+  "first_lsn": 1,
+  "last_lsn": 5
+}
